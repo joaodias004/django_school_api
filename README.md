@@ -27,19 +27,19 @@ Para configurar o projeto localmente, siga estes passos:
 
 2 - Instale as Dependências
 
-   'pip install -r requirements.txt'
+    'pip install -r requirements.txt'
 
 3 - Aplique as Migrações
 
-   'python manage.py migrate'
+    'python manage.py migrate'
 
 4 - Crie um Superusuário
 
-   'python manage.py createsuperuser'
+    'python manage.py createsuperuser'
 
 5 - Execute o Servidor de Desenvolvimento
 
-   'python manage.py runserver'
+    'python manage.py runserver'
 
 # Endpoints da API
 Alunos
