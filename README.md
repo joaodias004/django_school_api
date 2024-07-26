@@ -84,9 +84,10 @@ Modelos
     Matricula: Representa uma matrícula que liga um aluno a um curso com campos para estudante, curso e periodo.
 
 
-    # ENGLISH
 
-    # Overview
+# ENGLISH
+
+# Overview
 
 The Escola Management System is a Django-based application designed to manage students (Estudante), courses (Curso), and enrollments (Matricula). The application uses Django REST Framework (DRF) to provide a robust API for interacting with these models. It also includes an administrative interface to manage the data efficiently.
 Features
@@ -97,7 +98,7 @@ Features
     API Endpoints: RESTful API endpoints for managing and querying students, courses, and enrollments.
     Admin Interface: Django admin interface to manage students, courses, and enrollments directly.
 
-    Installation:
+Installation:
 Para configurar o projeto localmente, siga estes passos:
 
 1 - Clone the repository
