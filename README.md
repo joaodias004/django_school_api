@@ -4,6 +4,9 @@ Django REST API desenvolvida junto ao curso Alura: 'Django REST Framework: const
 
  *ENGLISH*
 Django Rest API developed with the 'Alura' course 'Django REST Framework: construindo APIs RESTful do Zero'. ('Django REST Framework: Developing RESTful APIs from scratch')
+
+
+
 English explanation is after the Portuguese below:
 
 # PORTUGUESE
